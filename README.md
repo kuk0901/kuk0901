@@ -17,12 +17,19 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=558bf7&height=240&section=header&text=Welcome%20to%20Hahyeon's%20github%20👋&animation=&fontColor=ffffff&fontSize=40" />
 </div>
 
-<div style="text-align: left;">
+<div>
+  <div align="center">
+      <span>안녕하세요!😊</span>
+      <br/>
+        <span>학습 마인드와 도전 정신이 가득한 신입 개발자 "하현"입니다.</span>
+  </div>
+
+  <br />
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
   <div style="text-align: left;"> <a href=mailto:kukhahyeon@gmail.com> 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kukhahyeon@gmail.com"> </a>
   </div>  
-  <br> 
+  <br /> 
 </div>
 
 <div style="text-align: left;">
